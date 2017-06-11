@@ -1,5 +1,6 @@
 
-/* _____________Instruction
+_____________Instruction
+/*
 
  Make Object Properties Private
  Objects have their own attributes, called properties, and their own functions, called methods.
@@ -26,7 +27,7 @@
  myBike.getGear() should return 3 after calling myBike.setGear(3).
  myBike.getGear() should return 1 after calling myBike.setGear(1).
 
-
+ */
   ____________Execution
 
  var Car = function() {
@@ -62,4 +63,3 @@
 
 
 
- */
