@@ -45,12 +45,8 @@ _____________Instruction
 
  // Only change code below this line.
 
- var myCar;
-
-
-
-
-
+ var myCar = new Car();
+ myCar.nickname = "mazda";
 
 
  */
